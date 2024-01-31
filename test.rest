@@ -1,0 +1,18 @@
+@url = http://localhost:3820
+
+### GET ALL BUDGET
+{{url}}/budgetbook
+
+### ADD AN BUDGET
+POST {{url}}/budgetbook
+content-type: application/json
+
+{
+    "bookingnr": "1",
+    "date": "01-01-2020",
+    "category": "Lebensmittel",
+    "business": "Rewe",
+    "amount": "100",
+    "notes": "Einkauf für die Woche",
+    "id": "1"
+}

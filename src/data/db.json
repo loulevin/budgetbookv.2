@@ -1,0 +1,94 @@
+{
+  "budgetbook": [
+    {
+      "bookingnr": "1",
+      "date": "2023-11-30",
+      "category": "einnahmen",
+      "business": "Gehalt",
+      "amount": "2100",
+      "notes": "",
+      "id": 1
+    },
+    {
+      "bookingnr": "2",
+      "date": "2023-11-30",
+      "category": "lebensmittel",
+      "business": "Rewe",
+      "amount": "10",
+      "notes": "",
+      "id": 2
+    },
+    {
+      "bookingnr": "3",
+      "date": "2023-11-30",
+      "category": "hygiene",
+      "business": "DM",
+      "amount": "50",
+      "notes": "",
+      "id": 3
+    },
+    {
+      "bookingnr": "4",
+      "date": "2023-12-01",
+      "category": "fixkosten",
+      "business": "Miete",
+      "amount": "900",
+      "notes": "Miete Dezember\n",
+      "id": 4
+    },
+    {
+      "bookingnr": "5",
+      "date": "2023-12-01",
+      "category": "fixkosten",
+      "business": "Strom",
+      "amount": "90",
+      "notes": "Strom für Dez 2023",
+      "id": 5
+    },
+    {
+      "bookingnr": "6",
+      "date": "2023-12-02",
+      "category": "lebensmittel",
+      "business": "Rewe",
+      "amount": "50",
+      "notes": "",
+      "id": 6
+    },
+    {
+      "bookingnr": "7",
+      "date": "2023-12-03",
+      "category": "zigaretten",
+      "business": "Kiosk",
+      "amount": "10",
+      "notes": "Rauchen zerstört die Lunge",
+      "id": 7
+    },
+    {
+      "bookingnr": "8",
+      "date": "2023-12-04",
+      "category": "lebensmittel",
+      "business": "Penny",
+      "amount": "20",
+      "notes": "",
+      "id": 8
+    },
+    {
+      "bookingnr": "9",
+      "date": "2023-12-04",
+      "category": "hygiene",
+      "business": "DM",
+      "amount": "50",
+      "notes": "Windeln",
+      "id": 9
+    },
+    {
+      "bookingnr": "10",
+      "date": "2023-12-11",
+      "category": "einnahmen",
+      "business": "Kindergeld",
+      "amount": "250",
+      "notes": "Kindergeld von Kind",
+      "id": 10
+    }
+  ]
+}
